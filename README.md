@@ -1,9 +1,7 @@
 # Simple Discord Bot in Python
-==========
 
 
 ## Installing
--------------
 
 ### Python 3.5.3 or higher is required
 
